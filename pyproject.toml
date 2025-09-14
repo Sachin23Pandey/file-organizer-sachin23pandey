@@ -1,0 +1,21 @@
+
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "file_organizer_Kabir23Pandey"
+version = "1.0.0"
+authors = [
+  { name="Kabir Pandey", email="pandeykabir6394@gmail.com" },
+]
+description = "This is a file organizer designed to assist users in managing their directories more visually and intuitively"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
