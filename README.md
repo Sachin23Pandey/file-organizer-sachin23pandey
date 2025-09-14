@@ -69,4 +69,3 @@ file_organizer.rename_folder("C:\\NewT", "OldFolder", "NewFolder")
 | `rename_folder(path, old_name, new_name)` | Renames an existing folder.                       |
 
 
-## Project Url 
