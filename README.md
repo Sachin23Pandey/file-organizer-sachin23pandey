@@ -10,7 +10,7 @@ Currently, it includes functions to organize files by extension, create files/fo
 Developed by `Sachin Pandey` (c) 2025
 
 ## Installation
-You can install it from TestPyPI (for now):
+You can install it from PyPI server (for now):
 ```python
 pip install file-organizer-sachin23pandey
 ```
