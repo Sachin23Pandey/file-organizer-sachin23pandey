@@ -1,5 +1,5 @@
 
-# file-organizer-sachin23pandey
+# File Organizer – Python Automation Tool
 ##### This is a file organizer designed to assist users in managing their directories more visually and intuitively
 
 ## Overview
